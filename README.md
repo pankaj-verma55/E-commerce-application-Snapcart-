@@ -1,14 +1,14 @@
-# aExpress
-Ecommerce Application Tutorial (Source) - Mian Speaks
+# Snapcart
+Ecommerce Application Tutorial (Source) - Pankaj Verma
 
 # How to setup Admin Panel
 
 ###### Step 1: Download Source Code
-https://github.com/mianasadali1/aExpress/blob/master/Web%20Source%20Code/SourceCode.zip
+https://github.com/pankaj-verma55/E-commerce-application-Snapcart-.git
 
 ###### Step 2: Upload Code & Database
 
-###### Step 3: Change database credientals in services/conf.php file
+###### Step 3: Change database in services/conf.php file
 
 ###### All Done.
 
@@ -16,27 +16,5 @@ https://github.com/mianasadali1/aExpress/blob/master/Web%20Source%20Code/SourceC
 
 ###### Step 1: In your android studio open Constants.java
 
-###### Step 2: Change BASE_URL with your URL
+###### Step 2: Change BASE_URL with your URL(the base url is taken to command prompt)
 
-# Used Libraries
-
-Material Search Bar:
-https://github.com/mancj/MaterialSearchBar
-
-Rounded Image View:
-https://github.com/vinc3m1/RoundedImageView
-
-Carousel:
-https://github.com/ImaginativeShohag/Why-Not-Image-Carousel
-
-Android Volley:
-https://google.github.io/volley
-
-Tiny Cart:
-https://github.com/hishd/TinyCart
-
-Advanced Webview:
-https://github.com/delight-im/Android-AdvancedWebView
-
-# Free SVG Icons
-https://www.svgrepo.com
